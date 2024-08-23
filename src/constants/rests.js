@@ -1,0 +1,56 @@
+export const restArray = [
+    {
+        id: 0,
+        image: 'rest-1.jpg', 
+        title: 'Пицца плюс',
+        time: 50, 
+        rating: 4.5,
+        price: 900,
+        type: 'Пицца'
+    },
+    {
+        id: 1, 
+        image: 'rest-2.jpg',
+        title: 'Тануки',
+        time: 50, 
+        rating: 4.5, 
+        price: 900,
+        type: 'Пицца',
+    },
+    {
+        id: 2, 
+        image: 'rest-3.jpg',
+        title: 'FoodBand',
+        time: 50, 
+        rating: 4.5, 
+        price: 900,
+        type: 'Пицца',
+    },
+    {
+        id: 3, 
+        image: 'rest-4.jpg',
+        title: 'Жадина-пицца',
+        time: 50, 
+        rating: 4.5, 
+        price: 900,
+        type: 'Пицца',
+    },
+    {
+        id: 4, 
+        image: 'rest-5.jpg',
+        title: 'Точка еды',
+        time: 50, 
+        rating: 4.5, 
+        price: 900,
+        type: 'Пицца',
+    },
+    {
+        id: 5, 
+        image: 'rest-6.jpg',
+        title: 'PizzaBurger',
+        time: 50, 
+        rating: 4.5, 
+        price: 900,
+        type: 'Пицца',
+    }
+]
